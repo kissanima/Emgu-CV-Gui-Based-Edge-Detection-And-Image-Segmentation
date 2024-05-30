@@ -3,7 +3,6 @@ C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentati
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\bin\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.runtimeconfig.json
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\bin\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.dll
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\bin\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.pdb
-C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu_CV_Gui_Based_Edge_Detection_And_Image_Segmentation.Form1.resources
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.csproj.GenerateResource.cache
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.AssemblyInfoInputs.cache
@@ -19,3 +18,5 @@ C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentati
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\bin\Debug\net8.0-windows\Emgu.CV.dll
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu CV Gui-Based Edge Detection And Image Segmentation.csproj.AssemblyReference.cache
 C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu CV .251790D1.Up2Date
+C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu_CV_Gui_Based_Edge_Detection_And_Image_Segmentation.MainWindow.resources
+C:\Users\Jr3\Desktop\Jr\C#\Emgu CV Gui-Based Edge Detection And Image Segmentation\obj\Debug\net8.0-windows\Emgu_CV_Gui_Based_Edge_Detection_And_Image_Segmentation.ImportControlPanel.resources

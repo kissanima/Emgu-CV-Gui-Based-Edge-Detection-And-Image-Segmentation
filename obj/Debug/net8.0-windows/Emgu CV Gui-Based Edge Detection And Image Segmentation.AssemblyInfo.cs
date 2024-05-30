@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emgu CV Gui-Based Edge Detection And Image Segmentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4747c30714a158c438c844ddde97c4f8bf0feb8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d06d9e208f3f9e19be979ab280f9ca97f5bbd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Emgu CV Gui-Based Edge Detection And Image Segmentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Emgu CV Gui-Based Edge Detection And Image Segmentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
